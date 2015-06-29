@@ -1,0 +1,3 @@
+[submodule "bundle/vim-independence"]
+	path = bundle/vim-independence
+	url = git://github.com/AD7six/vim-independence.git
