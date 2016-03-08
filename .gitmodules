@@ -1,3 +1,6 @@
 [submodule "bundle/vim-independence"]
 	path = bundle/vim-independence
 	url = git://github.com/AD7six/vim-independence.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git://github.com/tpope/vim-surround.git
